@@ -1,0 +1,3 @@
+../Drivers/UDP/udpClientRAW.c:49:6:udpClient_connect	24	static
+../Drivers/UDP/udpClientRAW.c:77:6:udpClient_send	120	static
+../Drivers/UDP/udpClientRAW.c:101:6:udp_receive_callback	24	static
