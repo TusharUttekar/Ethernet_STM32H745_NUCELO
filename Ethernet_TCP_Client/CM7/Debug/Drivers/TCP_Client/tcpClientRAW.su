@@ -1,0 +1,9 @@
+../Drivers/TCP_Client/tcpClientRAW.c:92:6:HAL_TIM_PeriodElapsedCallback	128	static
+../Drivers/TCP_Client/tcpClientRAW.c:136:6:tcp_client_init	16	static
+../Drivers/TCP_Client/tcpClientRAW.c:153:14:tcp_client_connected	32	static
+../Drivers/TCP_Client/tcpClientRAW.c:202:14:tcp_client_recv	32	static
+../Drivers/TCP_Client/tcpClientRAW.c:282:14:tcp_client_poll	24	static
+../Drivers/TCP_Client/tcpClientRAW.c:320:14:tcp_client_sent	32	static
+../Drivers/TCP_Client/tcpClientRAW.c:350:13:tcp_client_send	32	static
+../Drivers/TCP_Client/tcpClientRAW.c:405:13:tcp_client_connection_close	16	static
+../Drivers/TCP_Client/tcpClientRAW.c:427:13:tcp_client_handle	32	static
